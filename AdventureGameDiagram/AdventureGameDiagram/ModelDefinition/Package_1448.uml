@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="5f53988f-f421-41bc-b793-d1fdd8e756b8"
+  name="GameState" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="b60040ab-cb30-4137-a722-edf993815f76">
+      <body>How to save and
+what to save?</body>
+    </comment>
+    <comment
+      Id="239f45d3-c31c-46b0-a8eb-ee1282e96eaa">
+      <body>Fileformat to save
+in:
+Binary
+Serializing
+Relational database(?)</body>
+    </comment>
+  </ownedCommentsInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="e8f22a4c-3c44-4789-9c74-3b4486601373"
+        LastKnownName="Controller"
+        LastKnownLocation="Package_1449.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="fa41248e-ab42-4a86-8a0b-291bef6e404d"
+        LastKnownName="View"
+        LastKnownLocation="Package2_1448.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="7bc93975-13b5-4a30-90ab-2f9076b4544e"
+        LastKnownName="Model"
+        LastKnownLocation="Package1_1448.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>
